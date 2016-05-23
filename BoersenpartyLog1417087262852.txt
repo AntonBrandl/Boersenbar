@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262856</millis>
+  <sequence>0</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>Singapore Sling</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262881</millis>
+  <sequence>1</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417087261</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262882</millis>
+  <sequence>2</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417087260</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262883</millis>
+  <sequence>3</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417087260</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262884</millis>
+  <sequence>4</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417087260</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262885</millis>
+  <sequence>5</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>White Russian</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262886</millis>
+  <sequence>6</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417087261</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262887</millis>
+  <sequence>7</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>Goaßmaß</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262888</millis>
+  <sequence>8</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>Bacardi Razz</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262888</millis>
+  <sequence>9</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417087261</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262889</millis>
+  <sequence>10</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>Sex on the Beach</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262890</millis>
+  <sequence>11</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417087261</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262892</millis>
+  <sequence>12</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>Touchdown</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262893</millis>
+  <sequence>13</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417087260</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262893</millis>
+  <sequence>14</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>Caipirinha/Mojito</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262894</millis>
+  <sequence>15</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417087261</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262895</millis>
+  <sequence>16</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417087261</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262896</millis>
+  <sequence>17</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417087260</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262899</millis>
+  <sequence>18</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>B52</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262900</millis>
+  <sequence>19</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>Shot</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262901</millis>
+  <sequence>20</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417087261</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262902</millis>
+  <sequence>21</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417087260</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262903</millis>
+  <sequence>22</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>Gin Tonic/Wodka Bull/Martini</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262906</millis>
+  <sequence>23</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417087261</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262907</millis>
+  <sequence>24</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417087260</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262908</millis>
+  <sequence>25</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417087260</message>
+</record>
+<record>
+  <date>2014-11-27T12:21:02</date>
+  <millis>1417087262908</millis>
+  <sequence>26</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417087260</message>
+</record>
+</log>

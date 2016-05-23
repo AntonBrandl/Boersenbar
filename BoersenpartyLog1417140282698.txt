@@ -1,0 +1,5119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282699</millis>
+  <sequence>465</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>Gin Tonic / Wodka Bull / Martini</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282700</millis>
+  <sequence>466</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417140253</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282701</millis>
+  <sequence>467</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417134658</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282701</millis>
+  <sequence>468</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417133763</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282702</millis>
+  <sequence>469</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417133762</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282702</millis>
+  <sequence>470</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417133662</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282703</millis>
+  <sequence>471</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417132380</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282705</millis>
+  <sequence>472</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417132278</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282706</millis>
+  <sequence>473</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417132278</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282707</millis>
+  <sequence>474</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417131762</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282707</millis>
+  <sequence>475</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417131762</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282708</millis>
+  <sequence>476</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417130571</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282709</millis>
+  <sequence>477</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417130571</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282709</millis>
+  <sequence>478</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417130478</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282710</millis>
+  <sequence>479</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417130478</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282710</millis>
+  <sequence>480</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417129363</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282711</millis>
+  <sequence>481</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417129313</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282712</millis>
+  <sequence>482</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417129313</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282712</millis>
+  <sequence>483</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417128089</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282713</millis>
+  <sequence>484</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417128089</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282713</millis>
+  <sequence>485</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417127552</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282714</millis>
+  <sequence>486</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417127372</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282714</millis>
+  <sequence>487</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417126412</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282715</millis>
+  <sequence>488</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417126316</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282715</millis>
+  <sequence>489</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417126315</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282716</millis>
+  <sequence>490</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417125999</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282716</millis>
+  <sequence>491</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417124802</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282717</millis>
+  <sequence>492</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417124652</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282717</millis>
+  <sequence>493</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417124364</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282718</millis>
+  <sequence>494</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417123689</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282718</millis>
+  <sequence>495</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417123524</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282719</millis>
+  <sequence>496</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417123524</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282719</millis>
+  <sequence>497</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417122528</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282720</millis>
+  <sequence>498</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417122332</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282721</millis>
+  <sequence>499</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120956</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282721</millis>
+  <sequence>500</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120955</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282721</millis>
+  <sequence>501</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120954</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282722</millis>
+  <sequence>502</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120677</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282722</millis>
+  <sequence>503</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120675</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282723</millis>
+  <sequence>504</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120673</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282723</millis>
+  <sequence>505</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120671</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282723</millis>
+  <sequence>506</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120416</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282724</millis>
+  <sequence>507</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120414</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282724</millis>
+  <sequence>508</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120180</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282724</millis>
+  <sequence>509</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120178</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282725</millis>
+  <sequence>510</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119960</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282725</millis>
+  <sequence>511</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119953</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282726</millis>
+  <sequence>512</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119953</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282726</millis>
+  <sequence>513</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117906</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282726</millis>
+  <sequence>514</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117906</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282727</millis>
+  <sequence>515</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117905</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282727</millis>
+  <sequence>516</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117905</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282727</millis>
+  <sequence>517</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117905</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282728</millis>
+  <sequence>518</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117109</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282728</millis>
+  <sequence>519</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117109</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282729</millis>
+  <sequence>520</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117109</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282729</millis>
+  <sequence>521</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117108</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282730</millis>
+  <sequence>522</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117108</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282730</millis>
+  <sequence>523</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116564</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282731</millis>
+  <sequence>524</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116564</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282731</millis>
+  <sequence>525</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116564</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282732</millis>
+  <sequence>526</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116564</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282732</millis>
+  <sequence>527</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116564</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282733</millis>
+  <sequence>528</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>Bacardi Razz / Cuba Libre</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282733</millis>
+  <sequence>529</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417137441</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282733</millis>
+  <sequence>530</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417137441</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282734</millis>
+  <sequence>531</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417134020</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282734</millis>
+  <sequence>532</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417132380</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282735</millis>
+  <sequence>533</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417131764</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282735</millis>
+  <sequence>534</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417131282</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282736</millis>
+  <sequence>535</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417128299</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282736</millis>
+  <sequence>536</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417128299</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282737</millis>
+  <sequence>537</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417126301</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282738</millis>
+  <sequence>538</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417126300</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282738</millis>
+  <sequence>539</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417124052</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282739</millis>
+  <sequence>540</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417123381</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282739</millis>
+  <sequence>541</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417123321</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282739</millis>
+  <sequence>542</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417121757</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282740</millis>
+  <sequence>543</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120956</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282740</millis>
+  <sequence>544</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120955</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282741</millis>
+  <sequence>545</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120954</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282741</millis>
+  <sequence>546</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120677</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282742</millis>
+  <sequence>547</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120675</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282742</millis>
+  <sequence>548</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120673</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282743</millis>
+  <sequence>549</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120671</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282743</millis>
+  <sequence>550</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120416</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282744</millis>
+  <sequence>551</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120413</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282744</millis>
+  <sequence>552</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120180</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282745</millis>
+  <sequence>553</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120178</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282745</millis>
+  <sequence>554</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119960</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282746</millis>
+  <sequence>555</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119953</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282746</millis>
+  <sequence>556</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119952</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282747</millis>
+  <sequence>557</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117905</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282747</millis>
+  <sequence>558</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117905</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282748</millis>
+  <sequence>559</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117905</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282748</millis>
+  <sequence>560</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117905</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282749</millis>
+  <sequence>561</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117904</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282749</millis>
+  <sequence>562</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117109</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282749</millis>
+  <sequence>563</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117108</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282750</millis>
+  <sequence>564</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116564</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282750</millis>
+  <sequence>565</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116563</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282751</millis>
+  <sequence>566</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116563</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282751</millis>
+  <sequence>567</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116563</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282752</millis>
+  <sequence>568</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116563</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282752</millis>
+  <sequence>569</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>Singapore Sling</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282753</millis>
+  <sequence>570</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417132380</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282753</millis>
+  <sequence>571</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417132361</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282753</millis>
+  <sequence>572</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417129180</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282754</millis>
+  <sequence>573</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417128953</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282754</millis>
+  <sequence>574</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417128953</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282754</millis>
+  <sequence>575</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417126006</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282755</millis>
+  <sequence>576</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417125841</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282755</millis>
+  <sequence>577</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417122823</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282756</millis>
+  <sequence>578</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120956</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282756</millis>
+  <sequence>579</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120955</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282756</millis>
+  <sequence>580</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120954</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282757</millis>
+  <sequence>581</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120676</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282757</millis>
+  <sequence>582</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120675</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282758</millis>
+  <sequence>583</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120673</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282758</millis>
+  <sequence>584</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120671</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282758</millis>
+  <sequence>585</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120415</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282759</millis>
+  <sequence>586</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120413</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282759</millis>
+  <sequence>587</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120179</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282760</millis>
+  <sequence>588</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120178</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282761</millis>
+  <sequence>589</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119960</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282761</millis>
+  <sequence>590</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119952</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282761</millis>
+  <sequence>591</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119952</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282762</millis>
+  <sequence>592</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117904</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282762</millis>
+  <sequence>593</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117904</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282763</millis>
+  <sequence>594</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117904</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282763</millis>
+  <sequence>595</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117904</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282764</millis>
+  <sequence>596</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117904</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282764</millis>
+  <sequence>597</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117108</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282765</millis>
+  <sequence>598</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116563</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282765</millis>
+  <sequence>599</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116563</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282765</millis>
+  <sequence>600</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116563</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282766</millis>
+  <sequence>601</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116562</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282766</millis>
+  <sequence>602</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116562</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282767</millis>
+  <sequence>603</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>Sex on the Beach</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282767</millis>
+  <sequence>604</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417132380</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282768</millis>
+  <sequence>605</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417131766</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282768</millis>
+  <sequence>606</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417127743</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282769</millis>
+  <sequence>607</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417127743</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282769</millis>
+  <sequence>608</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417126522</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282770</millis>
+  <sequence>609</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417124432</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282770</millis>
+  <sequence>610</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120956</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282771</millis>
+  <sequence>611</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120955</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282771</millis>
+  <sequence>612</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120954</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282771</millis>
+  <sequence>613</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120676</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282772</millis>
+  <sequence>614</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120675</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282772</millis>
+  <sequence>615</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120673</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282773</millis>
+  <sequence>616</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120671</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282773</millis>
+  <sequence>617</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120415</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282774</millis>
+  <sequence>618</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120413</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282774</millis>
+  <sequence>619</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120179</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282775</millis>
+  <sequence>620</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120178</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282775</millis>
+  <sequence>621</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119960</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282775</millis>
+  <sequence>622</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119952</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282776</millis>
+  <sequence>623</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119952</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282776</millis>
+  <sequence>624</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117904</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282777</millis>
+  <sequence>625</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117903</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282777</millis>
+  <sequence>626</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117903</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282777</millis>
+  <sequence>627</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117903</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282778</millis>
+  <sequence>628</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117903</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282778</millis>
+  <sequence>629</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117110</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282779</millis>
+  <sequence>630</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116562</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282779</millis>
+  <sequence>631</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116562</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282780</millis>
+  <sequence>632</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116562</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282780</millis>
+  <sequence>633</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116562</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282781</millis>
+  <sequence>634</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116562</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282781</millis>
+  <sequence>635</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>Touchdown / Tequila Sunrise</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282781</millis>
+  <sequence>636</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417133241</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282782</millis>
+  <sequence>637</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417132379</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282782</millis>
+  <sequence>638</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417130067</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282783</millis>
+  <sequence>639</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417129560</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282783</millis>
+  <sequence>640</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417128829</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282783</millis>
+  <sequence>641</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417125878</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282784</millis>
+  <sequence>642</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417124734</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282784</millis>
+  <sequence>643</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417124734</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282784</millis>
+  <sequence>644</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417123687</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282785</millis>
+  <sequence>645</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120956</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282785</millis>
+  <sequence>646</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120955</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282786</millis>
+  <sequence>647</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120954</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282786</millis>
+  <sequence>648</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120676</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282787</millis>
+  <sequence>649</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120675</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282787</millis>
+  <sequence>650</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120672</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282788</millis>
+  <sequence>651</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120671</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282788</millis>
+  <sequence>652</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120415</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282789</millis>
+  <sequence>653</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120413</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282789</millis>
+  <sequence>654</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120179</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282789</millis>
+  <sequence>655</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120178</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282790</millis>
+  <sequence>656</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119960</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282790</millis>
+  <sequence>657</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119952</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282791</millis>
+  <sequence>658</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119952</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282791</millis>
+  <sequence>659</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117903</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282792</millis>
+  <sequence>660</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117903</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282793</millis>
+  <sequence>661</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117903</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282793</millis>
+  <sequence>662</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117902</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282794</millis>
+  <sequence>663</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117902</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282794</millis>
+  <sequence>664</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117110</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282795</millis>
+  <sequence>665</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117108</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282795</millis>
+  <sequence>666</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116561</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282796</millis>
+  <sequence>667</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116561</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282796</millis>
+  <sequence>668</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116561</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282797</millis>
+  <sequence>669</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116561</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282797</millis>
+  <sequence>670</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116561</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282798</millis>
+  <sequence>671</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>Caipirinha / Mojito</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282798</millis>
+  <sequence>672</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417132379</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282799</millis>
+  <sequence>673</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417131524</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282799</millis>
+  <sequence>674</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417131294</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282800</millis>
+  <sequence>675</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417128379</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282800</millis>
+  <sequence>676</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417127049</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282801</millis>
+  <sequence>677</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417125040</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282801</millis>
+  <sequence>678</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417124253</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282802</millis>
+  <sequence>679</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417123737</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282802</millis>
+  <sequence>680</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417123737</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282803</millis>
+  <sequence>681</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417123737</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282803</millis>
+  <sequence>682</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417123712</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282804</millis>
+  <sequence>683</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120956</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282804</millis>
+  <sequence>684</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120955</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282804</millis>
+  <sequence>685</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120954</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282805</millis>
+  <sequence>686</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120676</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282805</millis>
+  <sequence>687</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120675</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282806</millis>
+  <sequence>688</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120672</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282808</millis>
+  <sequence>689</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120671</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282808</millis>
+  <sequence>690</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120415</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282809</millis>
+  <sequence>691</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120413</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282809</millis>
+  <sequence>692</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120179</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282810</millis>
+  <sequence>693</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120178</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282810</millis>
+  <sequence>694</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119960</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282811</millis>
+  <sequence>695</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119951</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282811</millis>
+  <sequence>696</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119951</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282812</millis>
+  <sequence>697</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117902</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282812</millis>
+  <sequence>698</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117902</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282812</millis>
+  <sequence>699</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117902</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282813</millis>
+  <sequence>700</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117902</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282813</millis>
+  <sequence>701</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117902</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282814</millis>
+  <sequence>702</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117108</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282814</millis>
+  <sequence>703</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117107</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282814</millis>
+  <sequence>704</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116561</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282815</millis>
+  <sequence>705</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116560</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282815</millis>
+  <sequence>706</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116560</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282815</millis>
+  <sequence>707</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116560</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282816</millis>
+  <sequence>708</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116560</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282816</millis>
+  <sequence>709</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>Long-Island Icetea</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282817</millis>
+  <sequence>710</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417137270</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282817</millis>
+  <sequence>711</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417137105</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282817</millis>
+  <sequence>712</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417134029</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282818</millis>
+  <sequence>713</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417132379</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282818</millis>
+  <sequence>714</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417131103</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282819</millis>
+  <sequence>715</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417130850</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282819</millis>
+  <sequence>716</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417128082</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282820</millis>
+  <sequence>717</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417127952</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282820</millis>
+  <sequence>718</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417125756</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282820</millis>
+  <sequence>719</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417125617</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282821</millis>
+  <sequence>720</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417122439</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282821</millis>
+  <sequence>721</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120956</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282822</millis>
+  <sequence>722</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120955</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282822</millis>
+  <sequence>723</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120954</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282823</millis>
+  <sequence>724</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120954</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282823</millis>
+  <sequence>725</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120676</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282824</millis>
+  <sequence>726</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120674</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282824</millis>
+  <sequence>727</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120672</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282825</millis>
+  <sequence>728</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120670</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282825</millis>
+  <sequence>729</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120415</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282826</millis>
+  <sequence>730</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120413</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282826</millis>
+  <sequence>731</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120179</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282826</millis>
+  <sequence>732</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120178</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282827</millis>
+  <sequence>733</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119960</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282827</millis>
+  <sequence>734</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119951</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282827</millis>
+  <sequence>735</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119951</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282828</millis>
+  <sequence>736</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117901</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282828</millis>
+  <sequence>737</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117901</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282829</millis>
+  <sequence>738</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117901</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282829</millis>
+  <sequence>739</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117901</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282830</millis>
+  <sequence>740</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117901</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282830</millis>
+  <sequence>741</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117110</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282830</millis>
+  <sequence>742</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117108</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282831</millis>
+  <sequence>743</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117107</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282831</millis>
+  <sequence>744</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116560</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282832</millis>
+  <sequence>745</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116560</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282832</millis>
+  <sequence>746</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116560</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282833</millis>
+  <sequence>747</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116559</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282833</millis>
+  <sequence>748</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116559</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282834</millis>
+  <sequence>749</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>Piña Colada</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282834</millis>
+  <sequence>750</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417132379</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282835</millis>
+  <sequence>751</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417129757</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282835</millis>
+  <sequence>752</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417126199</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282836</millis>
+  <sequence>753</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417126069</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282836</millis>
+  <sequence>754</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417125550</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282837</millis>
+  <sequence>755</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417124245</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282837</millis>
+  <sequence>756</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417122355</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282837</millis>
+  <sequence>757</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120956</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282838</millis>
+  <sequence>758</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120955</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282838</millis>
+  <sequence>759</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120954</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282838</millis>
+  <sequence>760</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120676</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282839</millis>
+  <sequence>761</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120674</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282839</millis>
+  <sequence>762</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120672</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282840</millis>
+  <sequence>763</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120670</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282840</millis>
+  <sequence>764</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120415</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282841</millis>
+  <sequence>765</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120413</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282841</millis>
+  <sequence>766</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120179</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282842</millis>
+  <sequence>767</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120177</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282842</millis>
+  <sequence>768</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119960</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282842</millis>
+  <sequence>769</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119951</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282843</millis>
+  <sequence>770</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119951</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282843</millis>
+  <sequence>771</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117901</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282844</millis>
+  <sequence>772</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117901</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282844</millis>
+  <sequence>773</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117901</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282845</millis>
+  <sequence>774</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117900</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282845</millis>
+  <sequence>775</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117900</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282846</millis>
+  <sequence>776</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117108</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282846</millis>
+  <sequence>777</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116559</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282846</millis>
+  <sequence>778</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116559</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282847</millis>
+  <sequence>779</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116559</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282847</millis>
+  <sequence>780</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116559</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282848</millis>
+  <sequence>781</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116559</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282848</millis>
+  <sequence>782</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>B52</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282849</millis>
+  <sequence>783</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417136073</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282849</millis>
+  <sequence>784</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417136073</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282849</millis>
+  <sequence>785</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417136072</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282850</millis>
+  <sequence>786</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417135574</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282850</millis>
+  <sequence>787</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417135574</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282851</millis>
+  <sequence>788</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417133699</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282851</millis>
+  <sequence>789</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417133699</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282852</millis>
+  <sequence>790</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417132301</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282852</millis>
+  <sequence>791</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417132300</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282852</millis>
+  <sequence>792</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417130356</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282853</millis>
+  <sequence>793</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417130356</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282853</millis>
+  <sequence>794</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417130070</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282854</millis>
+  <sequence>795</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417130070</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282854</millis>
+  <sequence>796</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417126203</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282855</millis>
+  <sequence>797</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417126203</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282855</millis>
+  <sequence>798</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120957</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282856</millis>
+  <sequence>799</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120956</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282856</millis>
+  <sequence>800</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120955</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282856</millis>
+  <sequence>801</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120677</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282857</millis>
+  <sequence>802</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120675</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282857</millis>
+  <sequence>803</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120674</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282858</millis>
+  <sequence>804</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120672</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282858</millis>
+  <sequence>805</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120416</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282858</millis>
+  <sequence>806</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120414</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282858</millis>
+  <sequence>807</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120180</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282859</millis>
+  <sequence>808</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120179</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282859</millis>
+  <sequence>809</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119954</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282859</millis>
+  <sequence>810</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119954</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282860</millis>
+  <sequence>811</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117908</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282860</millis>
+  <sequence>812</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117908</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282861</millis>
+  <sequence>813</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117908</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282861</millis>
+  <sequence>814</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117907</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282862</millis>
+  <sequence>815</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117907</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282862</millis>
+  <sequence>816</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116567</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282862</millis>
+  <sequence>817</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116566</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282863</millis>
+  <sequence>818</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116566</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282863</millis>
+  <sequence>819</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116566</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282863</millis>
+  <sequence>820</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116566</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282864</millis>
+  <sequence>821</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>Shot</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282864</millis>
+  <sequence>822</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417134802</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282865</millis>
+  <sequence>823</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417134802</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282865</millis>
+  <sequence>824</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417134488</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282866</millis>
+  <sequence>825</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417134488</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282866</millis>
+  <sequence>826</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417134488</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282867</millis>
+  <sequence>827</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417134488</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282867</millis>
+  <sequence>828</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417134151</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282868</millis>
+  <sequence>829</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417134150</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282868</millis>
+  <sequence>830</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417134150</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282868</millis>
+  <sequence>831</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417134150</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282869</millis>
+  <sequence>832</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417133822</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282869</millis>
+  <sequence>833</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417133822</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282869</millis>
+  <sequence>834</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417133822</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282870</millis>
+  <sequence>835</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417133822</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282870</millis>
+  <sequence>836</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417133480</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282870</millis>
+  <sequence>837</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417133479</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282871</millis>
+  <sequence>838</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417133479</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282871</millis>
+  <sequence>839</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417133479</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282872</millis>
+  <sequence>840</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417132381</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282872</millis>
+  <sequence>841</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417132300</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282873</millis>
+  <sequence>842</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417130118</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282873</millis>
+  <sequence>843</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417130118</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282873</millis>
+  <sequence>844</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417130117</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282874</millis>
+  <sequence>845</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417127374</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282874</millis>
+  <sequence>846</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417127373</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282875</millis>
+  <sequence>847</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417127373</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282875</millis>
+  <sequence>848</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417127373</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282876</millis>
+  <sequence>849</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417127373</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282876</millis>
+  <sequence>850</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417126288</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282876</millis>
+  <sequence>851</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417126288</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282877</millis>
+  <sequence>852</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417125567</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282877</millis>
+  <sequence>853</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417124788</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282878</millis>
+  <sequence>854</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417124787</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282878</millis>
+  <sequence>855</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417124787</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282879</millis>
+  <sequence>856</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417124787</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282879</millis>
+  <sequence>857</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417124787</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282880</millis>
+  <sequence>858</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417124787</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282880</millis>
+  <sequence>859</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417124107</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282881</millis>
+  <sequence>860</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417123492</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282881</millis>
+  <sequence>861</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417123452</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282881</millis>
+  <sequence>862</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120957</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282882</millis>
+  <sequence>863</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120956</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282882</millis>
+  <sequence>864</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120956</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282883</millis>
+  <sequence>865</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120954</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282883</millis>
+  <sequence>866</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120677</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282884</millis>
+  <sequence>867</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120675</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282884</millis>
+  <sequence>868</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120674</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282884</millis>
+  <sequence>869</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120671</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282885</millis>
+  <sequence>870</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120416</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282885</millis>
+  <sequence>871</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120414</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282886</millis>
+  <sequence>872</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120180</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282891</millis>
+  <sequence>873</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120178</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282892</millis>
+  <sequence>874</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119953</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282892</millis>
+  <sequence>875</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119953</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282893</millis>
+  <sequence>876</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117907</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282893</millis>
+  <sequence>877</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117907</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282894</millis>
+  <sequence>878</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117907</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282894</millis>
+  <sequence>879</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117907</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282895</millis>
+  <sequence>880</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117907</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282895</millis>
+  <sequence>881</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117108</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282895</millis>
+  <sequence>882</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116566</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282896</millis>
+  <sequence>883</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116566</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282896</millis>
+  <sequence>884</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116566</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282897</millis>
+  <sequence>885</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116565</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282897</millis>
+  <sequence>886</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116565</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282898</millis>
+  <sequence>887</sequence>
+  <logger>NamesLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>White Russian</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282898</millis>
+  <sequence>888</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417136557</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282898</millis>
+  <sequence>889</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417132707</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282899</millis>
+  <sequence>890</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417132381</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282899</millis>
+  <sequence>891</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417131261</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282900</millis>
+  <sequence>892</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417131260</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282900</millis>
+  <sequence>893</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417131126</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282901</millis>
+  <sequence>894</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417131126</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282901</millis>
+  <sequence>895</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417129390</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282901</millis>
+  <sequence>896</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417128239</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282902</millis>
+  <sequence>897</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417127425</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282902</millis>
+  <sequence>898</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417127425</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282903</millis>
+  <sequence>899</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417125362</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282903</millis>
+  <sequence>900</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417125227</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282904</millis>
+  <sequence>901</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417125169</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282904</millis>
+  <sequence>902</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417125150</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282905</millis>
+  <sequence>903</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120956</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282905</millis>
+  <sequence>904</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120955</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282905</millis>
+  <sequence>905</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120954</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282906</millis>
+  <sequence>906</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120677</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282906</millis>
+  <sequence>907</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120675</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282907</millis>
+  <sequence>908</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120673</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282907</millis>
+  <sequence>909</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120671</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282908</millis>
+  <sequence>910</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120416</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282908</millis>
+  <sequence>911</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120414</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282909</millis>
+  <sequence>912</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120180</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282909</millis>
+  <sequence>913</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417120178</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282909</millis>
+  <sequence>914</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119953</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282910</millis>
+  <sequence>915</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417119953</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282910</millis>
+  <sequence>916</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117906</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282911</millis>
+  <sequence>917</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117906</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282911</millis>
+  <sequence>918</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117906</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282912</millis>
+  <sequence>919</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117906</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282912</millis>
+  <sequence>920</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117906</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282913</millis>
+  <sequence>921</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117109</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282913</millis>
+  <sequence>922</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117109</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282913</millis>
+  <sequence>923</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117108</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282914</millis>
+  <sequence>924</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417117108</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282914</millis>
+  <sequence>925</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116565</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282915</millis>
+  <sequence>926</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116565</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282915</millis>
+  <sequence>927</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116565</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282916</millis>
+  <sequence>928</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116565</message>
+</record>
+<record>
+  <date>2014-11-28T03:04:42</date>
+  <millis>1417140282916</millis>
+  <sequence>929</sequence>
+  <logger>TimestampLogger</logger>
+  <level>INFO</level>
+  <class>Game</class>
+  <method>writeLogfile</method>
+  <thread>12</thread>
+  <message>1417116565</message>
+</record>
+</log>
